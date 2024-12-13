@@ -1,6 +1,6 @@
 # 画像コピー禁止 プラグイン
 
-<img width="1383" src="https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png">
+ ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png)
 
 
 ## このプラグインについて
@@ -62,8 +62,7 @@
  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img4.png)
 
 # Image Copy Blocker 
-
-<img width="1383" src="https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png">
+ ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png)
 
 
 ## About this plugin
