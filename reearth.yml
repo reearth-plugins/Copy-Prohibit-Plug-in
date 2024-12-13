@@ -1,10 +1,10 @@
-id: Image Copy Blocker
-name: Image Copy Blocker
+id: Image-Copy-Blocker
+name: Image-Copy-Blocker
 version: 1.0.0
 extensions:
-  - id: Image Copy Blocker
+  - id: Image-Copy-Blocker
     type: block
-    name: Image Copy Blocker
+    name: Image-Copy-Blocker
     schema:
       groups:
         - id: default
