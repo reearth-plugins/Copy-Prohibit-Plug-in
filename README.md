@@ -1,6 +1,6 @@
 # 画像コピー禁止 プラグイン
 
-<img width="1383" src="src/bannedCopyTopImg.png">
+<img width="1383" src="src/Image Copy Blocker1.png">
 
 
 ## このプラグインについて
@@ -63,7 +63,7 @@
 
 # Image Copy Blocker
 
-<img width="1383" src="src/bannedCopyTopImg.png">
+<img width="1383" src="src/Image Copy Blocker1.png">
 
 
 ## About this plugin
