@@ -61,9 +61,65 @@
 
  ![](src/img4.png)
 
-## 備考
-- テストブラウザ環境
-  - OS:Mac OS Sonoma 14.4.1
-  - ブラウザ：Google Chrome 123.0.6312.124
+# Copy Prohibit Plug-in
+
+<img width="1383" src="src/bannedCopyTopImg.png">
 
 
+## About this plugin
+
+- Disables the ability to copy photos displayed in the infobox using the browser's "Save Image" function.
+
+### Settings
+
+- Select the layer on which the photo will be displayed and press the Create infobox button. Press '+' in the infobox to display the plugin list, and select "banned copy".
+
+  ![](src/img1.png)
+
+
+- Right Panel Settings
+
+  Configure settings for photos to be displayed.
+
+  ![](src/img2.png)
+
+  - Image
+
+    Specifies an image to be displayed in the infobox.
+
+  - Title
+
+    Specifies the title to be displayed for the image.
+
+  - Full Size
+
+    When "On" is selected, the image is displayed in the full size infobox.
+
+  - Image Size
+
+    Cover: Displays the image without margins. Some parts of the image may not be displayed.
+
+    Include: Displays the entire image. Margins may occur.
+
+  - Horizontal Position
+
+    Specifies the horizontal position of the image, left, center, or right.
+
+  - Vertical Position
+
+    Specifies the vertical position of the image: top, center, bottom.
+
+
+### Usage Example
+
+- When a photo is displayed with the standard function Image.
+
+  You can save the photo in the context menu that appears with the right mouse button.
+
+　![](src/img3.png)
+
+- When a photo is displayed with this plug-in.
+
+  The context menu displayed with the right mouse button does not allow you to save the photo.
+
+ ![](src/img4.png)
