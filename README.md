@@ -1,6 +1,6 @@
 # 画像コピー禁止 プラグイン
 
-<img width="1383" src="src/Image Copy Blocker1.png">
+<img width="1383" src="https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png">
 
 
 ## このプラグインについて
@@ -11,14 +11,14 @@
 
 - 写真を表示するレイヤーを選択し、インフォボックス作成ボタンを押します。インフォボックス内の'+’を押すと、プラグインリストが表示されますので、「banned copy」を選択します。
 
-  ![](src/img1.png)
+  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img1.png)
 
 
 - 右パネルの設定
 
   表示する写真の設定を行います。
 
-  ![](src/img2.png)
+  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img2.png)
 
   - 画像
   
@@ -53,17 +53,17 @@
 
   マウスの右ボタンで表示されるコンテキストメニューで画像の保存が可能です。
 
-　![](src/img3.png)
+　![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img3.png)
 
 - 本プラグインで写真を表示した場合。
 
   マウスの右ボタンで表示されるコンテキストメニューでは画像の保存はできません。
 
- ![](src/img4.png)
+ ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img4.png)
 
 # Image Copy Blocker 
 
-<img width="1383" src="src/Image Copy Blocker1.png">
+<img width="1383" src="https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png">
 
 
 ## About this plugin
@@ -74,14 +74,14 @@
 
 - Select the layer on which the image will be displayed and press the Create infobox button. Press '+' in the infobox to display the plugin list, and select "banned copy".
 
-  ![](src/img1.png)
+  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img1.png)
 
 
 - Right Panel Settings
 
   Configure settings for images to be displayed.
 
-  ![](src/img2.png)
+  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img2.png)
 
   - Image
 
@@ -116,10 +116,10 @@
 
   You can save the photo in the context menu that appears with the right mouse button.
 
-　![](src/img3.png)
+　![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img3.png)
 
-- When a image is displayed with this plug-in.
+- When a  is displayed with this plug-in.
 
   The context menu displayed with the right mouse button does not allow you to save the image.
 
- ![](src/img4.png)
+ ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img4.png)
