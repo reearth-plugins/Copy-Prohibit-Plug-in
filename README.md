@@ -68,18 +68,18 @@
 
 ## About this plugin
 
-- Disables the ability to copy photos displayed in the infobox using the browser's "Save Image" function.
+- Disables the ability to copy images displayed in the infobox using the browser's "Save Image" function.
 
 ### Settings
 
-- Select the layer on which the photo will be displayed and press the Create infobox button. Press '+' in the infobox to display the plugin list, and select "banned copy".
+- Select the layer on which the image will be displayed and press the Create infobox button. Press '+' in the infobox to display the plugin list, and select "banned copy".
 
   ![](src/img1.png)
 
 
 - Right Panel Settings
 
-  Configure settings for photos to be displayed.
+  Configure settings for images to be displayed.
 
   ![](src/img2.png)
 
@@ -112,14 +112,14 @@
 
 ### Usage Example
 
-- When a photo is displayed with the standard function Image.
+- When a image is displayed with the standard function Image.
 
   You can save the photo in the context menu that appears with the right mouse button.
 
 　![](src/img3.png)
 
-- When a photo is displayed with this plug-in.
+- When a image is displayed with this plug-in.
 
-  The context menu displayed with the right mouse button does not allow you to save the photo.
+  The context menu displayed with the right mouse button does not allow you to save the image.
 
  ![](src/img4.png)
