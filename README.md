@@ -61,7 +61,7 @@
 
  ![](src/img4.png)
 
-# Copy Prohibit Plug-in
+# Image Copy Blocker
 
 <img width="1383" src="src/bannedCopyTopImg.png">
 
