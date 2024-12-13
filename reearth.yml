@@ -1,0 +1,52 @@
+id: reearth-plugin-banned-copy
+name: banned copy image block
+version: 1.0.0
+extensions:
+  - id: banned-copy
+    type: block
+    name: banned copy
+    schema:
+      groups:
+        - id: default
+          fields:
+            - id: imageUrl
+              type: url
+              title: 画像
+              ui: image
+            - id: title
+              type: string
+              title: タイトル
+            - id: fullSize
+              type: bool
+              title: フルサイズ
+            - id: imageSize
+              type: string
+              title: 画像サイズ
+              defaultValue: cover
+              choices:
+                - key: cover
+                  label: カバー
+                - key: contain
+                  label: 含む
+            - id: imagePositionX
+              type: string
+              title: 水平位置
+              defaultValue: center
+              choices:
+                - key: left
+                  label: 左
+                - key: center
+                  label: 中央
+                - key: right
+                  label: 右
+            - id: imagePositionY
+              type: string
+              title: 垂直位置
+              defaultValue: center
+              choices:
+                - key: top
+                  label: 上
+                - key: center
+                  label: 中央
+                - key: bottom
+                  label: 下
