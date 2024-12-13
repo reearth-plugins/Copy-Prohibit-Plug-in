@@ -83,29 +83,29 @@
 
   ![](src/img2.png)
 
-  - Image
+  - 画像
 
     Specifies an image to be displayed in the infobox.
 
-  - Title
+  - タイトル
 
     Specifies the title to be displayed for the image.
 
-  - Full Size
+  - フルサイズ
 
     When "On" is selected, the image is displayed in the full size infobox.
 
-  - Image Size
+  - 画像サイズ
 
     Cover: Displays the image without margins. Some parts of the image may not be displayed.
 
     Include: Displays the entire image. Margins may occur.
 
-  - Horizontal Position
+  - 水平位置
 
     Specifies the horizontal position of the image, left, center, or right.
 
-  - Vertical Position
+  - 垂直位置
 
     Specifies the vertical position of the image: top, center, bottom.
 
