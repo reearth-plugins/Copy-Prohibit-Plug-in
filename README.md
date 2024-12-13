@@ -30,7 +30,7 @@
 
   - フルサイズ
   
-    Onにすることで画像をインフォボックスの幅に対し余白なしに画像を表示します。
+    Onにすることで画像をインフォボックスの横幅に対し余白なしに画像を表示します。
 
   - 画像サイズ
 
@@ -83,29 +83,29 @@
 
   ![](src/img2.png)
 
-  - 画像
+  - Image
 
     Specifies an image to be displayed in the infobox.
 
-  - タイトル
+  - Titile
 
     Specifies the title to be displayed for the image.
 
-  - フルサイズ
+  - Full size
 
     When "On" is selected, the image is displayed in the full size infobox.
 
-  - 画像サイズ
+  - Image size
 
     Cover: Displays the image without margins. Some parts of the image may not be displayed.
 
     Include: Displays the entire image. Margins may occur.
 
-  - 水平位置
+  - Image horizontal position
 
     Specifies the horizontal position of the image, left, center, or right.
 
-  - 垂直位置
+  - Image vertical position
 
     Specifies the vertical position of the image: top, center, bottom.
 

@@ -27,7 +27,7 @@ extensions:
                 - key: cover
                   label: カバー
                 - key: contain
-                  label: 含む
+                  label: 領域内に表示
             - id: imagePositionX
               type: string
               title: 水平位置
