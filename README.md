@@ -63,7 +63,7 @@
 
 ### 備考
 
-本プラグインは長崎大学 情報データ科学部 全研究室との共同プロジェクトで作成されました。詳細は[こちら](https://www.recna.nagasaki-u.ac.jp/recna/topics/41636)。
+本プラグインは長崎大学 情報データ科学部 [全研究室](https://www.idsci.nagasaki-u.ac.jp/research/faculty-list/staff3)との共同プロジェクトで作成されました。詳細は[こちら](https://www.recna.nagasaki-u.ac.jp/recna/topics/41636)。
 
 # Image Copy Blocker 
  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png)
