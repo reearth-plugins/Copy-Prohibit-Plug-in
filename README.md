@@ -61,6 +61,10 @@
 
  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img4.png)
 
+### 備考
+
+本プラグインは長崎大学 情報データ科学部 全研究室との共同プロジェクトで作成されました。詳細は[こちら](https://www.recna.nagasaki-u.ac.jp/recna/topics/41636)。
+
 # Image Copy Blocker 
  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png)
 
@@ -122,3 +126,7 @@
   The context menu displayed with the right mouse button does not allow you to save the image.
 
  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img4.png)
+
+### Remarks
+
+This plug-in was created in a joint project with [Jun laboratories](https://www.idsci.nagasaki-u.ac.jp/research/faculty-list/staff3) of School of Information and Data Sciences, Nagasaki University. For more information, [click here](https://www.recna.nagasaki-u.ac.jp/recna/topics/41636).
