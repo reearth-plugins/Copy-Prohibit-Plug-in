@@ -34,9 +34,9 @@
 
   - 画像サイズ
 
-    カバー：　画像を余白なく表示します。画像の一部が表示されなくなる場合があります。
+    カバー：画像を余白なく表示します。画像の一部が表示されなくなる場合があります。
  
-    領域内に表示：　infobox内の領域に画像全体を表示します。画像の上下左右に余白が生じる場合があります。
+    領域内に表示：infobox内の領域に画像全体を表示します。画像の上下左右に余白が生じる場合があります。
 
   - 水平位置
 
@@ -100,9 +100,9 @@
 
   - Image size
 
-    Cover: Displays the image without margins. Some parts of the image may not be displayed.
+    Cover:Displays the image without margins. Some parts of the image may not be displayed.
 
-    Include: Displays the entire image. Margins may occur.
+    Include:Displays the entire image. Margins may occur.
 
   - Image horizontal position
 
