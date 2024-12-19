@@ -76,7 +76,6 @@ reearth.ui.show(`
       }
 
 
-      console.log(infoboxProperty);
       if(infoboxProperty.default && infoboxProperty.default.size && infoboxProperty.default.size === "large"){
         infoboxSize = "340px";
       }else{
@@ -204,10 +203,8 @@ reearth.ui.show(`
 
 `);
 
-
 reearth.on("update", send);
 send();
-
 
 function send() {
   if (reearth.block?.property?.default) {
