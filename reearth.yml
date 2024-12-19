@@ -1,6 +1,6 @@
-id: image-copy-blocker
+id: Image-Copy-Blocker
 name: Image Copy Blocker
-version: 1.0.4
+version: 1.0.5
 extensions:
   - id: image-copy-blocker
     type: block
