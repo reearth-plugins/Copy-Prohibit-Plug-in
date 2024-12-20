@@ -3,7 +3,7 @@
 Image Copy Blocker は、インフォボックス内の画像のコピーや保存を禁止するためのプラグインです。  
 このプラグインを使用することで、ユーザーが画像上で右クリックを行い、「名前をつけて画像を保存」や「画像をコピー」を行うことを防げます。
 
-<img src="src/img2.png" alt="thumbnail" width="200"> <img src="src/img3.png" alt="thumbnail" width="200">
+<img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img1.png?raw=true" alt="thumbnail" width="300"> <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img2.png?raw=true" alt="thumbnail" width="300">
 
 ## プラグイン追加方法
 
@@ -12,13 +12,14 @@ Image Copy Blocker は、インフォボックス内の画像のコピーや保�
 3. インフォボックス内の「+」ボタンをクリック
 4. 「Image Copy Blocker」を選択
 
- <img src="src/img1.png" alt="thumbnail" width="400">
+ <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img3.png?raw=true" alt="thumbnail" width="400">
 
 ## プラグインの使い方
 
 1. インフォボックス内で「Image Copy Blocker」をクリック
-2. 右側に表示される設定項目を設定
-   <img src="src/img2.png" alt="thumbnail" width="400">
+2. 右側に表示される設定項目を設定  
+
+<img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img4.png?raw=true" alt="thumbnail" width="400">
 
 3. **画像の設定**
 
@@ -53,7 +54,7 @@ Image Copy Blocker は、インフォボックス内の画像のコピーや保�
 
 Image Copy Blocker is a plugin designed to prevent the copying and saving of images within the infobox. Using this plugin, users are restricted from right-clicking on an image to perform actions such as "Save image as" or "Copy image."
 
-<img src="src/img2.png" alt="thumbnail" width="200"> <img src="src/img3.png" alt="thumbnail" width="200">
+<img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img1.png?raw=true" alt="thumbnail" width="300"> <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img2.png?raw=true" alt="thumbnail" width="300">
 
 ## How to Add the Plugin
 
@@ -62,24 +63,25 @@ Image Copy Blocker is a plugin designed to prevent the copying and saving of ima
 3. Click the "+" button inside the infobox.
 4. Select "Image Copy Blocker."
 
- <img src="src/img1.png" alt="thumbnail" width="400">
+ <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img3.png?raw=true" alt="thumbnail" width="400">
 
 ## How to Use the Plugin
 
 1. Click "Image Copy Blocker" inside the infobox.
 2. Configure the settings displayed on the right panel.
-   <img src="src/img2.png" alt="thumbnail" width="400">
 
-3. **Set the Image**
+<img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img4.png?raw=true" alt="thumbnail" width="400">
+
+4. **Set the Image**
 
    1. Click "Unset" displayed to the right of the "Image" label.
    2. Add an image from "Assets" or paste an image link into "URL."
 
-4. **Set the Title**
+5. **Set the Title**
 
    1. Enter a title into the input field to the right of the "Title" label.
 
-5. **Other Settings**
+6. **Other Settings**
 
    1. **Fit the Image to the Entire Block**  
       Toggle "Full Size" to ON.
