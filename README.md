@@ -1,132 +1,104 @@
-# 画像コピー禁止 プラグイン
+# Image Copy Blocker
 
- ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png)
+Image Copy Blocker は、インフォボックス内の画像のコピーや保存を禁止するためのプラグインです。  
+このプラグインを使用することで、ユーザーが画像上で右クリックを行い、「名前をつけて画像を保存」や「画像をコピー」を行うことを防げます。
 
+<img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img1.png?raw=true" alt="thumbnail" width="300"> <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img2.png?raw=true" alt="thumbnail" width="300">
 
-## このプラグインについて
+## プラグイン追加方法
 
--  インフォボックスに表示される画像をブラウザの「画像保存」でコピー不可にすることができます。
+1. インフォボックスを作成したいレイヤーを左側パネルから選択
+2. 右側パネルに表示される「インフォボックス」を選択し、「インフォボックス作成」をクリック
+3. インフォボックス内の「+」ボタンをクリック
+4. 「Image Copy Blocker」を選択
 
-### 設定
+ <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img3.png?raw=true" alt="thumbnail" width="400">
 
-- 写真を表示するレイヤーを選択し、インフォボックス作成ボタンを押します。インフォボックス内の'+’を押すと、プラグインリストが表示されますので、「banned copy」を選択します。
+## プラグインの使い方
 
-  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img1.png)
+1. インフォボックス内で「Image Copy Blocker」をクリック
+2. 右側に表示される設定項目を設定  
 
+<img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img4.png?raw=true" alt="thumbnail" width="400">
 
-- 右パネルの設定
+3. **画像の設定**
 
-  表示する写真の設定を行います。
+   1. 「画像」ラベルの右側に表示される「未設定」をクリック
+   2. 「アセット」から画像を追加するか、「URL」に画像リンクを貼り付け
 
-  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img2.png)
+4. **タイトルの設定**
 
-  - 画像
-  
-    インフォボックスに表示する画像を指定します。
+   1. 「タイトル」ラベルの右側の入力フィールドにタイトルを入力
 
-  - タイトル
-    
-    画像に表示するタイトルを指定します。
+5. **その他の設定**
 
-  - フルサイズ
-  
-    Onにすることで画像をインフォボックスの横幅に対し余白なしに画像を表示します。
+   1. **画像をブロック全体にフィットさせる**  
+      「フルサイズ」ラベルの右側のトグルスイッチを ON にする
 
-  - 画像サイズ
+   2. **画像サイズを指定**  
+      「画像サイズ」ラベルの右側のプルダウンメニューから「カバー」または「含む」を選択
+      - カバー: 画像をブロック全体に拡大して表示
+      - 含む: 画像全体をブロック内に表示
 
-    カバー：画像を余白なく表示します。画像の一部が表示されなくなる場合があります。
- 
-    領域内に表示：infobox内の領域に画像全体を表示します。画像の上下左右に余白が生じる場合があります。
+   4. **水平方向の配置を設定**  
+      （画像サイズを「含む」に設定した場合のみ）
+      「水平位置」ラベルの右側のプルダウンメニューから「左」「中央」「右」を選択
 
-  - 水平位置
-
-    画像の水平位置を、左、中央、右で指定します。
-
-  - 垂直位置
-  
-    画像の垂直位置を、上、中央、下で指定します。
-
-
-### 使用例
-
-- プラグインを利用せずに標準機能で画像を表示した場合。
-
-  マウスの右ボタンで表示されるコンテキストメニューで画像の保存が可能です。
-
-　![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img3.png)
-
-- 本プラグインで写真を表示した場合。
-
-  マウスの右ボタンで表示されるコンテキストメニューでは画像の保存はできません。
-
- ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img4.png)
+   5. **垂直方向の配置を設定**  
+      （画像サイズを「カバー」に設定した場合のみ）  
+      「垂直位置」ラベルの右側のプルダウンメニューから「上」「中央」「下」を選択
 
 ### 備考
 
 本プラグインは長崎大学 情報データ科学部 [全研究室](https://www.idsci.nagasaki-u.ac.jp/research/faculty-list/staff3)との共同プロジェクトで作成されました。詳細は[こちら](https://www.recna.nagasaki-u.ac.jp/recna/topics/41636)。
 
-# Image Copy Blocker 
- ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/Image%20Copy%20Blocker1.png)
+# Image Copy Blocker
 
+Image Copy Blocker is a plugin designed to prevent the copying and saving of images within the infobox. Using this plugin, users are restricted from right-clicking on an image to perform actions such as "Save image as" or "Copy image."
 
-## About this plugin
+<img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img1.png?raw=true" alt="thumbnail" width="300"> <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img2.png?raw=true" alt="thumbnail" width="300">
 
-- Disables the ability to copy images displayed in the infobox using the browser's "Save Image" function.
+## How to Add the Plugin
 
-### Settings
+1. Select the layer where you want to create an infobox from the left panel.
+2. In the right panel, click on "Infobox" and then "Create Infobox."
+3. Click the "+" button inside the infobox.
+4. Select "Image Copy Blocker."
 
-- Select the layer on which the image will be displayed and press the Create infobox button. Press '+' in the infobox to display the plugin list, and select "banned copy".
+ <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img3.png?raw=true" alt="thumbnail" width="400">
 
-  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img1.png)
+## How to Use the Plugin
 
+1. Click "Image Copy Blocker" inside the infobox.
+2. Configure the settings displayed on the right panel.
 
-- Right Panel Settings
+<img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img4.png?raw=true" alt="thumbnail" width="400">
 
-  Configure settings for images to be displayed.
+3. **Set the Image**
 
-  ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img2.png)
+   1. Click "Unset" displayed to the right of the "Image" label.
+   2. Add an image from "Assets" or paste an image link into "URL."
 
-  - Image
+4. **Set the Title**
 
-    Specifies an image to be displayed in the infobox.
+   1. Enter a title into the input field to the right of the "Title" label.
 
-  - Titile
+5. **Other Settings**
 
-    Specifies the title to be displayed for the image.
+   1. **Fit the Image to the Entire Block**  
+      Toggle "Full Size" to ON.
 
-  - Full size
+   2. **Specify Image Size**  
+      Select "Cover" or "Contain" from the dropdown menu to the right of "Image Size": - Cover: Expands the image to fit the entire block. - Contain: Displays the entire image within the block.
 
-    When "On" is selected, the image is displayed in the full size infobox.
+   3. **Set Horizontal Alignment**  
+      _(Only applicable when "Contain" is selected for Image Size)_  
+      Choose "Left," "Center," or "Right" from the dropdown menu to the right of "Horizontal Position."
 
-  - Image size
+   4. **Set Vertical Alignment**  
+      _(Only applicable when "Cover" is selected for Image Size)_  
+      Choose "Top," "Center," or "Bottom" from the dropdown menu to the right of "Vertical Position."
 
-    Cover:Displays the image without margins. Some parts of the image may not be displayed.
+### Notes
 
-    Include:Displays the entire image. Margins may occur.
-
-  - Image horizontal position
-
-    Specifies the horizontal position of the image, left, center, or right.
-
-  - Image vertical position
-
-    Specifies the vertical position of the image: top, center, bottom.
-
-
-### Usage Example
-
-- When a image is displayed with the standard function Image.
-
-  You can save the photo in the context menu that appears with the right mouse button.
-
-　![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img3.png)
-
-- When a  is displayed with this plug-in.
-
-  The context menu displayed with the right mouse button does not allow you to save the image.
-
- ![](https://github.com/reearth-plugins/Image-Copy-Blocker/raw/main/src/img4.png)
-
-### Remarks
-
-This plug-in was created in a joint project with [Jun laboratories](https://www.idsci.nagasaki-u.ac.jp/research/faculty-list/staff3) of School of Information and Data Sciences, Nagasaki University. For more information, [click here](https://www.recna.nagasaki-u.ac.jp/recna/topics/41636).
+This plugin was developed as a collaborative project with the Faculty of Information and Data Science, Nagasaki University [All Research Laboratories](https://www.idsci.nagasaki-u.ac.jp/research/faculty-list/staff3). For more details, please visit [here](https://www.recna.nagasaki-u.ac.jp/recna/topics/41636).
