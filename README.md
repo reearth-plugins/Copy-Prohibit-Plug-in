@@ -36,13 +36,15 @@ Image Copy Blocker は、インフォボックス内の画像のコピーや保�
       「フルサイズ」ラベルの右側のトグルスイッチを ON にする
 
    2. **画像サイズを指定**  
-      「画像サイズ」ラベルの右側のプルダウンメニューから「カバー」または「含む」を選択 - カバー: 画像をブロック全体に拡大して表示 - 含む: 画像全体をブロック内に表示
+      「画像サイズ」ラベルの右側のプルダウンメニューから「カバー」または「含む」を選択
+      - カバー: 画像をブロック全体に拡大して表示
+      - 含む: 画像全体をブロック内に表示
 
-   3. **水平方向の配置を設定**  
+   4. **水平方向の配置を設定**  
       （画像サイズを「含む」に設定した場合のみ）
       「水平位置」ラベルの右側のプルダウンメニューから「左」「中央」「右」を選択
 
-   4. **垂直方向の配置を設定**  
+   5. **垂直方向の配置を設定**  
       （画像サイズを「カバー」に設定した場合のみ）  
       「垂直位置」ラベルの右側のプルダウンメニューから「上」「中央」「下」を選択
 
@@ -72,16 +74,16 @@ Image Copy Blocker is a plugin designed to prevent the copying and saving of ima
 
 <img src="https://github.com/reearth-plugins/Image-Copy-Blocker/blob/rewrite-readme/src/img4.png?raw=true" alt="thumbnail" width="400">
 
-4. **Set the Image**
+3. **Set the Image**
 
    1. Click "Unset" displayed to the right of the "Image" label.
    2. Add an image from "Assets" or paste an image link into "URL."
 
-5. **Set the Title**
+4. **Set the Title**
 
    1. Enter a title into the input field to the right of the "Title" label.
 
-6. **Other Settings**
+5. **Other Settings**
 
    1. **Fit the Image to the Entire Block**  
       Toggle "Full Size" to ON.
